@@ -1,0 +1,21 @@
+- 👋 Hi, I’m @luke-magnusson
+  - 🌏 I am from Australia.
+  - I spend most of my free time working on [startographer](https://github.com/luke-magnusson/startographer)
+    - About 5-10 hours a week on weekends and evenings mainly.
+- ⌨️ I currently work with
+  - ⚙️ Rust
+    - Web Assembly
+  - 🌐 JavaScript
+    - NodeJS
+    - ExpressJS
+  - 📚 MySQL
+- 🚧 I’m currently working on
+  - 🤝 Creating my first open source project [startographer](https://github.com/luke-magnusson/startographer)
+  - 🎓 Studying for a Bachelor of Computer Science.
+- ⌛ I have also worked with
+  - ☕ Java
+  - ➕ C++
+  - 👓 C#
+  - 📚 MSSQL
+- I would love to collaborate on
+  - Open source projects related to 🏗️ worldbuilding or 💬 conlanging.
