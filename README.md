@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luke-magnusson
+- 👋 Hi, I’m @ski-scaper
   - 🌏 I am from Australia.
   - I spend most of my free time working on [startographer](https://github.com/luke-magnusson/startographer)
     - About 5-10 hours a week on weekends and evenings mainly.
